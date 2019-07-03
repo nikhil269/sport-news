@@ -1,0 +1,4 @@
+#Wed Jul 03 12:14:01 IST 2019
+base.0=/home/nikhil/FlutterProject/sportnews/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
