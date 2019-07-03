@@ -18,4 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 Sport News Flutter (Android & Ios) Application .![HomePage](https://i.ibb.co/dGYxgFh/appwrap-template-201907031354381.png)
 ![Slider Page](https://i.ibb.co/MgZcshH/appwrap-template-201907031354380.png)
 ![NextPage](https://i.ibb.co/qpQCNkt/appwrap-template-201907031354382.png)
+![SliderOn](https://i.ibb.co/LPqTgbq/appwrap-template-201907031354383.png)
 
